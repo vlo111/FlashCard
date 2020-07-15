@@ -1,0 +1,16 @@
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\bin\Debug\TelerikWinFormsApp4.exe.config
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\bin\Debug\TelerikWinFormsApp4.exe
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\bin\Debug\TelerikWinFormsApp4.pdb
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\bin\Debug\Telerik.WinControls.dll
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\bin\Debug\TelerikCommon.dll
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\bin\Debug\Telerik.WinControls.xml
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\obj\x86\Debug\TelerikWinFormsApp4.RadForm1.resources
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\obj\x86\Debug\TelerikWinFormsApp4.Properties.Resources.resources
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\obj\x86\Debug\TelerikWinFormsApp4.csproj.GenerateResource.cache
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\obj\x86\Debug\TelerikWinFormsApp4.exe.licenses
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\obj\x86\Debug\TelerikWinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\obj\x86\Debug\TelerikWinFormsApp4.csproj.CopyComplete
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\obj\x86\Debug\TelerikWinFormsApp4.exe
+C:\Users\Lifebeget\source\repos\TelerikWinFormsApp4\TelerikWinFormsApp4\obj\x86\Debug\TelerikWinFormsApp4.pdb
